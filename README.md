@@ -7,6 +7,8 @@ yarn add @material-ui/core
 yarn add @material-ui/icons
 ```
 
+# Screenshot
+![Screenshot app](https://raw.githubusercontent.com/alagrede/react-material-ui/master/docs/screenshot.png)
 
 ## Available Scripts
 
